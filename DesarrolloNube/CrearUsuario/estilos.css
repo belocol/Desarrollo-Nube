@@ -1,0 +1,81 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+
+    h2 h3 h4 h5 h6{
+        background-color: black;   
+    }
+
+     
+    #sirvaporfa{
+        margin-left: 20px;
+        margin-top: 50px;
+        float: left;
+    }
+    
+    #mostrar{
+        margin-right: 1px;
+      
+    }
+
+    #text-registrar{
+        margin-bottom: 1em;
+        margin-left: 17.3em;
+        font-size: 2em;
+        font-style: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+    }
+    #etiqueta{
+        color: black;
+    }
+    .fondo{
+        background-color: #087404;
+    }
+    #btnRegistrar{
+        margin-left: 15em;
+        margin-bottom: 1em;
+        margin-top: 1.2em;
+    }
+    #btnMover{
+        margin-left: 12.5em;
+    }
+    
+    .card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+    
+    .gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #01d28e;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #087404, #087404);
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #087404, #087404)
+    }
+    
+    .bg-indigo {
+    background-color: #e3f8e0;
+    }
+    @media (min-width: 992px) {
+    .card-registration-2 .bg-indigo {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    }
+    }
+    @media (max-width: 991px) {
+    .card-registration-2 .bg-indigo {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    }
+    }   
